@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shawshary
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning dotfiles configuration
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
